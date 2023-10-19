@@ -1,0 +1,39 @@
+body{
+    margin: 0%;
+    background-color: black;
+}
+.log{
+    background-color: rgb(229, 229, 229);
+    height: 500px;
+    width: 500px;
+    margin: 0%;
+    margin-left: 420px;
+    margin-top: 50px;
+}
+.box{
+    margin-left: 100px;
+    margin-top: 15px;
+}
+.box1{
+    height: 400px;
+    width: 400px;
+    margin-left: -50px;
+    border-radius: 1px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255)
+}
+.box2{
+    height: 370px;
+    width: 350px;
+    /* background-color: black; */
+    border: 1px solid #000000;
+    margin-top: 15px;
+    margin-left: 25px;
+    border-radius: 10px;
+}
+.box3{
+    height: 30px;
+    width: 100px;
+    border: 1px solid #000000;
+    
+}
